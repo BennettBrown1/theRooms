@@ -13,3 +13,12 @@
 body {
     background-color: #396d3f;
 }
+
+a:link, a:visited {
+    color: #65bf6f;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #158a92;
+}
